@@ -10,7 +10,7 @@ init(autoreset=True)
 
 print("""
 ╔═════════════════════════════════════════════╗
-║ Luxury Auto Refferal https://t.me/forestarmy ║
+║ Luxury Auto Refferal http://t.me/forestarmy ║
 ╚═════════════════════════════════════════════╝
 """)
 
